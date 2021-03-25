@@ -8,6 +8,7 @@ export default memo(function Discover(props) {
   const { route } = props
   return (
     <DiscoverWrapper>
+      哈哈哈哈哈哈哈哈哈哈哈哈哈
       <div className="top">
         <TopMenu className="wrap-v1">
           {dicoverMenu.map(item => {
